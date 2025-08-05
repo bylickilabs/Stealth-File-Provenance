@@ -29,7 +29,7 @@
 ---
 
 ### Usage
-- Launch the app (`app.py`)
+- Launch the app (`python app.py`)
 - Select a file via “Select file”
 - Click “Analyze” for the complete report
 - Export report if needed
