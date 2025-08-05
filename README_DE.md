@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Stealth File Provenance Inspector
 
-[Logo](/assets/logo.png)
+![Logo](/assets/logo.png)
 
 ## „Digitale Spurensuche auf höchstem Niveau“
 
