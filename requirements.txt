@@ -1,0 +1,5 @@
+pillow
+piexif
+PyPDF2
+python-docx
+matplotlib
